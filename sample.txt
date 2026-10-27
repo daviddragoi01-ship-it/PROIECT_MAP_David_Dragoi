@@ -1,0 +1,3 @@
+Acesta este un fișier de test pentru proiectul de analiză a textelor.
+Aplicația va număra frecvența fiecărui cuvânt și va genera statistici despre diversitatea lexicală.
+Testăm funcția de cautare, concordanta si n-grams in acest text de proba.
